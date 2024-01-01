@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Python, AWS, SQL**
 
-⚡ Fun fact **I love making furnitures**
+⚡ Fun fact **I love making furniture**
 
  </div>
  
